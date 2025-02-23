@@ -1,0 +1,1 @@
+π is an irrational number, it has infinite non-periodic decimal digits. This is what happens if you take the first million decimal digits of π, you link a color to each digit from 0 to 9 and you create a 1000x1000 matrix where the decimals are represented as bits.
